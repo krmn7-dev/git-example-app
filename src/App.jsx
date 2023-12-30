@@ -29,7 +29,8 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-         learn more
+         
+         Learn more
       </p>
     </>
   )
